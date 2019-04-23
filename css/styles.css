@@ -1,0 +1,23 @@
+span {
+  color: white;
+  font-size: 2rem;
+  background-color: green;
+  border-right: 3px solid green;
+  border-left: 3px solid green;
+  border-radius: 15px;
+}
+
+button {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#inputError1 {
+  max-width: 50px;
+}
+
+#inputError1, #gender {
+  display: inline-block;
+  margin-right: 20px;
+}
